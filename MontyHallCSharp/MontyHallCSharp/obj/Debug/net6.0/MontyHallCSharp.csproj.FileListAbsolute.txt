@@ -1,0 +1,15 @@
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\bin\Debug\net6.0\MontyHallCSharp.exe
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\bin\Debug\net6.0\MontyHallCSharp.deps.json
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\bin\Debug\net6.0\MontyHallCSharp.runtimeconfig.json
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\bin\Debug\net6.0\MontyHallCSharp.dll
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\bin\Debug\net6.0\MontyHallCSharp.pdb
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.csproj.AssemblyReference.cache
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.AssemblyInfoInputs.cache
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.AssemblyInfo.cs
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.dll
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\refint\MontyHallCSharp.dll
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.pdb
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\MontyHallCSharp.genruntimeconfig.cache
+C:\Users\Radhey Radhey\source\repos\MontyHallCSharp\MontyHallCSharp\obj\Debug\net6.0\ref\MontyHallCSharp.dll
